@@ -1,5 +1,5 @@
 {
-    "name": "ratchet/pawl"
+    "name": "wpjscc/pawl"
   , "description": "Asynchronous WebSocket client"
   , "keywords": ["WebSocket", "client", "Ratchet", "async", "websocket client"]
   , "license": "MIT"
