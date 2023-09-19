@@ -154,4 +154,9 @@ class WebSocket implements EventEmitterInterface {
     {
         $this->_stream->resume();
     }
+
+    public function getStream()
+    {
+        return $this->_stream;
+    }
 }
